@@ -1,1 +1,1 @@
-# jec-chabot
+# jec-chatbot
